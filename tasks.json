@@ -1,0 +1,94 @@
+   [
+    {
+      "number": 0,
+      "standing": "flower",
+      "facing": "tree",
+      "point": "cat",
+      "result": 301
+    },
+    {
+      "number": 1,
+      "standing": "car",
+      "facing": "traffic light",
+      "point": "stop sign",
+      "result": 123
+    },
+    {
+      "number": 2,
+      "standing": "cat",
+      "facing": "tree",
+      "point": "car",
+      "result": 237
+    },
+    {
+      "number": 3,
+      "standing": "stop sign",
+      "facing": "cat",
+      "point": "house",
+      "result": 83
+    },
+    {
+      "number": 4,
+      "standing": "cat",
+      "facing": "flower",
+      "point": "car",
+      "result": 156
+    },
+    {
+      "number": 5,
+      "standing": "stop sign",
+      "facing": "tree",
+      "point": "traffic light",
+      "result": 319
+    },
+    {
+      "number": 6,
+      "standing": "stop sign",
+      "facing": "flower",
+      "point": "car",
+      "result": 235
+    },
+    {
+      "number": 7,
+      "standing": "traffic light",
+      "facing": "house",
+      "point": "flower",
+      "result": 333
+    },
+    {
+      "number": 8,
+      "standing": "house",
+      "facing": "flower",
+      "point": "stop sign",
+      "result": 260
+    },
+    {
+      "number": 9,
+      "standing": "car",
+      "facing": "stop sign",
+      "point": "tree",
+      "result": 280
+    },
+    {
+      "number": 10,
+      "standing": "traffic light",
+      "facing": "cat",
+      "point": "car",
+      "result": 48
+    },
+    {
+      "number": 11,
+      "standing": "tree",
+      "facing": "flower",
+      "point": "house",
+      "result": 26
+    },
+    {
+      "number": 12,
+      "standing": "cat",
+      "facing": "house",
+      "point": "traffic light",
+      "result": 150
+    }
+  ]
+
